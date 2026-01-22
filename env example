@@ -1,0 +1,13 @@
+TELEGRAM_TOKEN=''
+
+OPENAI_API_KEY=""
+OPENAI_MODEL=gpt-4o-mini
+
+DB_PATH=data/app.db
+
+PROJECT_NAME=GenerativeX Sponsorship
+EVENT_DESC=Startup battle project: SponsoBot — sponsorship outreach assistant.
+AUDIENCE=Companies that sponsor student/tech events, CSR/marketing teams.
+BENEFITS=Brand visibility, student talent pipeline, PR impact, measurable KPI reporting.
+ASK_AMOUNT=from $300 to $2000 (flexible)
+LANGUAGE=ru
