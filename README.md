@@ -8,13 +8,9 @@
 - Dashboard: counts by status
 
 ## Setup
-1) Create venv and install deps:
-   pip install -r requirements.txt
+1) pip install -r requirements.txt
 
-2) Create .env:
-   cp .env.example .env
-   Fill TELEGRAM_TOKEN and OPENAI_API_KEY
+2) Fill TELEGRAM_TOKEN and OPENAI_API_KEY
 
-3) Run:
-   python src/main.py
+3) python src/main.py
 # generativex
